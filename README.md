@@ -10,6 +10,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ReOS Software
 - 🤔 I’m looking for help with Laravel
 - 💬 Ask me about Web Programmer
-- 📫 How to reach me: t.me/fabiyudzaky
+- 📫 How to reach me: [telegram](https://t.me/fabiyudzaky)
 - 😄 Pronouns: Hello
 - ⚡ Fun fact: Ganbatte Kudasai !
